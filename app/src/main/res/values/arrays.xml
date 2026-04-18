@@ -253,6 +253,12 @@
         <item>1080P 高码率</item>
         <item>1080P 60帧</item>
         <item>4K</item>
+        <item>121</item>
+        <item>122</item>
+        <item>123</item>
+        <item>124</item>
+        <item>HDR125</item>
+        <item>杜比视界126</item>
         <item>8K</item>
     </string-array>
     <string-array name="half_screen_quality_values">
@@ -267,6 +273,12 @@
         <item>112</item>
         <item>116</item>
         <item>120</item>
+        <item>121</item>
+        <item>122</item>
+        <item>123</item>
+        <item>124</item>
+        <item>125</item>
+        <item>126</item>
         <item>127</item>
     </string-array>
     <string-array name="live_quality_entries">
